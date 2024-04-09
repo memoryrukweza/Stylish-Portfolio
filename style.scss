@@ -1,0 +1,119 @@
+
+
+/* .slidein{ animation-name: slidein;
+         animation-duration: 1s;
+        animation-timing-function: ease-in;
+        animation-delay: 0s;
+        animation-iteration-count: 1;
+        animation-direction: normal;
+         animation-fill-mode: forwards;
+        
+        transform: translate(-1000px);} */ 
+        
+
+
+header{ background-image: url(img/bg-masthead.jpg); height: 100vh; text-align: center; background-position: 0px -100px;
+     background-repeat: no-repeat; background-size: cover; .box{width: 60px; height: 60px; 
+        background-color: black; border-radius: 10px; opacity: 50%;}
+       h1{ font-size: 65px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; padding-top: 200px;}
+        p{ font-size: 30px; padding-top: 10px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+    button{ margin-top: 30px; color: white; background-color: #1d809f; 
+         padding: 15px; border: 1px solid #1d809f; border-radius: 7px;} 
+ .container{ display: flex; justify-content: end; font-size: 40px; 
+    color: rgb(255, 255, 255); padding-right: 50px; padding-top: 20px;}
+
+} 
+
+.hero{ height: 50vh; display: flex; flex-direction: column; align-items: center; justify-content: center;
+        h2{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: 30px;}
+        p{ font-size: 25px; padding-top: 10px;}
+        button{ margin-top: 30px; color: white; 
+        padding: 15px; border: 1px solid black; border-radius: 7px; background-color: black; }
+
+}
+
+.services{ height: 50vh; background-color: #1d809f; color: white; padding-top: 40px;
+    .ser{ text-align: center; padding-bottom: 20px;} h2{ font-size: 30px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+     #serv{ color: rgb(218, 165, 32); padding-bottom: 5px;}
+     .icons{ display: flex;justify-content: space-evenly; background-color:  #1d809f; }
+     .icons1{display: flex; width: 80px; height: 80px; background-color: white; justify-content: center;
+    img{ width: 20px; height: 25px; display: flex;} align-items: center; border-radius: 300px;}
+
+.offer{ column-count: 4; text-align: center; padding-top: 20px; }
+p{font-size: small; padding-top: 10px;}
+.o{ padding-left: 150px;}
+.r{padding-left: 60px;}
+.f{padding-right: 55px;}
+.m{padding-right: 150px;}
+}
+
+.scissors{ background-image: url(./img/scissors.jpg); height: 90vh; background-repeat: no-repeat; 
+    background-size: cover; background-position: 0px; display: flex; flex-direction: column; align-items: center; 
+           h2{ font-size: 40px; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+           button{ margin-top: 30px; color: white; background-color: #1d809f;
+            padding: 15px; border: 1px solid #1d809f; border-radius: 7px;}}
+
+
+.portfolio{ position: relative; padding-top: 30px; 
+    height: 130vh; #port{text-align: center; padding-top: 30px;} text-align: center;
+
+    #port{ padding-bottom: 30px;} h2{ font-size: 30px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;} h4{ color: goldenrod;}
+img{margin-left: -4px;max-width: 480px;margin-bottom: -5px; }
+.offers{margin-left: 40px; }
+ #projects{ padding-top: 50px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: small;}
+.stat{ position: absolute; bottom: 500px; left: 250px; text-align: left;
+    color: white;}   h3{padding-bottom: 5px;}  
+    
+.ice{position: absolute; bottom: 500px; left: 730px; text-align: left;
+        color: white;}   h3{padding-bottom: 5px;}
+
+.straw{ position: absolute; bottom: 180px; left: 250px; text-align: left;
+        color: white;}   h3{padding-bottom: 5px;}
+
+.work{position: absolute; bottom: 180px; left: 730px; text-align: left;
+        color: white;}   h3{padding-bottom: 5px;}}         
+    
+        .cta{ background-color: #1d809f; height: 40vh; 
+
+h2{ text-align: center; font-size: 30px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: white; padding-top: 75px;}
+.buttons{text-align: center; display: flex; column-gap: 2em; justify-content: center; }
+#b-one{ margin-top: 30px; color: black; background-color: white;
+    padding: 15px; border: 1px solid white; border-radius: 7px; padding-right: -20px;} #b-one:hover {transform: translateY(-10px);}
+
+#b-two{ margin-top: 30px; color: white; background-color: rgb(15, 14, 14);
+    padding: 15px; border: 1px solid rgb(15, 14, 14); border-radius: 7px;} 
+    #b-two:hover {transform: translateY(-10px);}} 
+
+.map{ background-image: url(./img/map.jpeg); height: 60vh; background-position: 0px -320px;
+    background-repeat: no-repeat; background-size: cover; }
+
+footer{ height: 30vh; text-align: center;}
+
+.foot{ display: flex; flex-direction: row; align-items: center; justify-content: center; margin-top: 50px; column-gap: 2em;
+.ter{ height: 70px; width: 70px; border-radius: 100%; background-color: #1d809f; }
+.ter img{ height: 48px; width: 48px;}
+img{ padding-top: 20px; padding-right: 10px; padding-left: 10px;}}
+.copy{padding-top: 70px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
